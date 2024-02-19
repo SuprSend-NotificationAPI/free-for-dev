@@ -755,6 +755,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
   * [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
+  * [SuprSend](https://www.suprsend.com) - Multichannel notification service API with multi-tenants, user preferences, inapp notification center support. Free up to 10000 notifications per month for developers.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
